@@ -14,7 +14,6 @@ use WPDataTable;
  *
  * Main entry point of the wpDataTables Starter Addon
  *
- * @package WDTStarter
  */
 final class Plugin
 {
