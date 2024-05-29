@@ -234,7 +234,7 @@ final class Plugin
     /**
      * Admin notice
      *
-     * Warning when the site doesn't have a minimum required Elementor version.
+     * Warning when the site doesn't have a minimum required wpDataTables version.
      *
      * @since 1.0.0
      * @access public
